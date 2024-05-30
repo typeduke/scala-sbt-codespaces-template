@@ -1,0 +1,1 @@
+# scala-sbt-codespaces-template
